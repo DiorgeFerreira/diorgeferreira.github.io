@@ -25,10 +25,10 @@ a.btn {
   text-align: center;
 }
 
-#bg {
-  position: relative; 
-  top: 0; 
-  left: 0; 
-  min-width: 100%;
-  min-height: 100%;
+html { 
+  background: url(images/nasa.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
