@@ -12,6 +12,10 @@ body {
   color: black;
 }
 
+h1 {
+  color: black;
+}
+
 a.btn {
   display: block;
   margin-bottom: 20px;
