@@ -8,8 +8,8 @@ html {
 
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  background-color: #fff0;
-  color: white;
+  background-color: transparent;
+  color: black;
 }
 
 a.btn {
